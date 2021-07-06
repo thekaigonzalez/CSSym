@@ -22,7 +22,7 @@ namespace SymSearchCSEdition
                     Console.Write(">>> ");
                     string classs = Console.ReadLine();
                     Type type = assembly.GetType(classs);
-                    object instance = Activator.CreateInstance(type); //creates an instance of that class
+                    object instance = Activator.CreateInstance(type); 
                     MethodInfo[] methods = type.GetMethods();
                     if (classs == "methods-available")
                     {
@@ -30,16 +30,11 @@ namespace SymSearchCSEdition
                     }
                     else
                     {
-                        foreach (object OBJ in methods)
-                        {
-                            Console.WriteLine(OBJ.ToString());
-                            if (OBJ.ToString() == "")
-                            {
-                                object result = methods[0].Invoke(instance, new object[] { });
-                            }
-                            
-                        }
-                        
+
+
+                        //main
+                        object result = methods[0].Invoke(instance, new object[] { });
+
                     }
 
                 }

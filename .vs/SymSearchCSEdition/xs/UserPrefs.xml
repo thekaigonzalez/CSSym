@@ -1,0 +1,26 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{C2AA89EA-1CC5-4B1C-9BE7-FEEF9AB30126}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="SymSearchCSEdition/Program.cs" Line="36" Column="83" />
+      <File FileName="SymSearchCSEdition/README.md" Line="2" Column="99" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SymSearchCSEdition" expanded="True">
+            <Node name="SymSearchCSEdition" expanded="True">
+              <Node name="README.md" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SymSearchCSEdition PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
