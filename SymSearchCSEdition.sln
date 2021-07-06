@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymSearchCSEdition", "SymSearchCSEdition\SymSearchCSEdition.csproj", "{C2AA89EA-1CC5-4B1C-9BE7-FEEF9AB30126}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2AA89EA-1CC5-4B1C-9BE7-FEEF9AB30126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2AA89EA-1CC5-4B1C-9BE7-FEEF9AB30126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2AA89EA-1CC5-4B1C-9BE7-FEEF9AB30126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2AA89EA-1CC5-4B1C-9BE7-FEEF9AB30126}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C219575B-B479-45DF-8D83-9D5C7E4A123A}
+	EndGlobalSection
+EndGlobal
